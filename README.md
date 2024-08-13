@@ -1,6 +1,10 @@
 # 墨奇码的拆分码表
 
 
+拆分说明可以看[墨奇码拆分说明](https://moqiyinxing.chunqiujinjing.com/index/mo-qi-yin-xing-shuo-ming/fu-zhu-ma-shuo-ming/mo-qi-ma-chai-fen-shuo-ming)
+
+这里的格式乱了。
+
 基于字形描述信息、递归拆分至最小字形，最后取首末双形音托的方案。
 
 左右、上下、包围必拆。笔画相连视为独体字，例如“灭”为上下结构（一和火不相连），“正”为独体字（一和止相连）。
