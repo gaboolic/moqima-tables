@@ -196,3 +196,5 @@ m
 丈：一丿乀
 
 勿：勹丿丿
+
+<img width="3236" height="1478" alt="墨奇码的拆分码表" src="https://github.com/user-attachments/assets/a9b71135-5c59-4387-9274-703347bd3d55" />
